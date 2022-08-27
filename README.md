@@ -4,6 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazaher-ghorbani&label=Profile%20views&color=0e75b6&style=flat" alt="mazaher-ghorbani" /> </p>
 
+<h3 align="left">Bio:</h3>
+<p align="left">
+
 - ⚙️ I use daily: **SQL**, **Python**, **DAX** and so many **soft skills**!
 
 - 🌱 Learning all about **Data**
