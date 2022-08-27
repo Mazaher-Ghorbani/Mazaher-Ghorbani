@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/43762/screenshots/1193016/mtn-graph-dribbbble.gif" width="1000" height="400">
+<img src="https://cdn.dribbble.com/users/43762/screenshots/1193016/mtn-graph-dribbbble.gif" width="600" height="300">
 <h1 align="center">Hi 👋, I'm a data analyst working in Hamburg, Germany.</h1>
 <h3 align="center">Always love to study and learn</h3>
 <img align="right" alt="Coding" width="200" src=https://i.pinimg.com/originals/4a/ae/cd/4aaecd065f4eb2f64dd5a3387fa3eb74.gif>
