@@ -1,5 +1,5 @@
 <img src="https://cdn.dribbble.com/users/43762/screenshots/1193016/mtn-graph-dribbbble.gif" width="850" height="280">
-<h1 align="left">Hi 👋, I'm a data analyst working in Hamburg, Germany.</h1>
+<h1 align="left">Data evangelist working in Hamburg, Germany.</h1>
 <img align="right" alt="Coding" width="160" src=https://i.pinimg.com/originals/4a/ae/cd/4aaecd065f4eb2f64dd5a3387fa3eb74.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazaher-ghorbani&label=Profile%20views&color=0e75b6&style=flat" alt="mazaher-ghorbani" /> </p>
@@ -11,9 +11,7 @@
 
 - 🌱 Learning all about **Data**
 
-- 🤝 I’m looking for help with **Data Build Tool (dbt)**
-
-- 💬 Ask me about **SQL for Data Analysis, Power BI, Python, Business Analytics**
+- 💬 Ask me about **SQL for Data Analysis, Python, Tableau, Power BI, Business Analytics, Data Visualization**
 
 - 📫 How to reach me **mazaher.ghorbani@gmail.com**
 
